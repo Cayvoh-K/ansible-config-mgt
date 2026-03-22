@@ -1,4 +1,4 @@
-# Ansible Configuration Management - Infrastructure Automation Project
+# Ansible Configuration Management - Infrastructure Automation Refactoring
 
 This repository contains the configuration management code for automating server setup using **Ansible**. The project demonstrates a full CI/CD workflow where infrastructure changes are developed on feature branches, peer-reviewed via Pull Requests, and automatically deployed/archived via **Jenkins**.
 
