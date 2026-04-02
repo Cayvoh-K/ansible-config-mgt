@@ -1,0 +1,3 @@
+---
+- name: Import common playbooks
+  import_playbook: ../static-assignments/common.yml
